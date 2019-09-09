@@ -1,5 +1,6 @@
 supported_devices=(
   'marlin'
+  'taimen'
 )
 
 for device in ${supported_devices[@]}; do
